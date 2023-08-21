@@ -1,0 +1,12 @@
+D:\Mine\git projects\TripService\TripServiceProject\bin\Debug\net6.0\TripServiceProject.deps.json
+D:\Mine\git projects\TripService\TripServiceProject\bin\Debug\net6.0\TripServiceProject.dll
+D:\Mine\git projects\TripService\TripServiceProject\bin\Debug\net6.0\ref\TripServiceProject.dll
+D:\Mine\git projects\TripService\TripServiceProject\bin\Debug\net6.0\TripServiceProject.pdb
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.AssemblyInfoInputs.cache
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.AssemblyInfo.cs
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.csproj.CoreCompileInputs.cache
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.dll
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\ref\TripServiceProject.dll
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.pdb
+D:\Mine\git projects\TripService\TripServiceProject\obj\Debug\net6.0\TripServiceProject.csproj.AssemblyReference.cache
